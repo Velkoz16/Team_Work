@@ -1,4 +1,4 @@
-package Youssef;
+package youssef;
 
 public class YoussefBouzoubaa {
     // Hi my name is youssef
